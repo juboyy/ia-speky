@@ -60,7 +60,7 @@ with st.sidebar:
 )
 
 pages = {
-    "Lucy": "_pages/home.py",
+    "Speky": "_pages/home.py",
     "Sobre Mim": "_pages/About_Me.py",
     "Experiência": "_pages/Experience.py",
     "Habilidades Técnicas": "_pages/technical_skills.py",
