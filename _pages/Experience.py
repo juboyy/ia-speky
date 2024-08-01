@@ -5,16 +5,12 @@ sample_markdown = r"""
 Breve visão geral da minha experiência até o momento.
 ---
 
-
-## Dell Technologies
-`Estagiário de Inverno em Engenharia de Software`
+## Ninecon
+`Oracle Cloud Technical Consultant`
 </br>
-``Jan-Maio 2024``
+`Jan 2022 - Presente`
 <div style='text-align: justify'><b>
-<li>
-Desenvolvi e implementei recursos para uma ferramenta de orquestração de API baseada em estados, garantindo integração perfeita e coordenação de vários serviços dentro de uma arquitetura baseada em microsserviços.</li><br>
-<li>Projetei chatbots e ferramentas para fornecer insights e informações sobre pedidos usando Prompt Engineering.</li><br> 
-<li>Conduzi pesquisas e desenvolvi um relatório abrangente sobre o tratamento de cenários NULL no MongoDB, implementando soluções para operações de leitura e gravação eficientes e sem erros.</li><br>
+<li>Atuo como consultor especializado em soluções Oracle Cloud, com foco em integração, automação e suporte a clientes globais de diferentes setores.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -22,18 +18,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-Microsserviços, Large Language Model (LLM), Small Language Model (SLM), Fine Tuning, Vector Database, Prompt Engineering, Docker, Kubernetes, RabbitMQ, orquestração, Golang, Python, MongoDB, API
+OIC, VBCS, BIP, Fusion, OCI, SLA, BI Publisher, PL/SQL, ALM, Metodologias Agile, ERP, HCM, CRM
 </div>
 ---
-## NoShitSecurity
-`Estagiário de Arquitetura e Engenharia em Nuvem`
+
+## Oracle
+`Sr. Cloud Application Specialist | Architect`
 </br>
-`Dez-Ago 2023`
+`Jan-Maio 2024`
 <div style='text-align: justify'><b>
-<li>Desenvolve e implanta infraestrutura resiliente em nuvem Azure.</li><br>
-<li>Avalia a postura de segurança, identifica pontos fortes e fracos, aplica pensamento avançado e recomenda correções</li><br> 
-<li>Utiliza as últimas tendências e técnicas líderes do setor para hospedar um evento mundial de captura da bandeira.</li><br> 
-<li>Desenvolve ou implementa ferramentas de código aberto ou de terceiros para reduzir a exposição ou proteger a infraestrutura em nuvem</li><br>
+<li>Liderança técnica em projetos de desenvolvimento de aplicativos móveis utilizando VBCS, com foco em segurança, migração e arquitetura em nuvem.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -41,19 +35,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-Arquitetura em Nuvem Azure, Engenharia de Segurança Azure, Monitor Azure, máquina virtual, redes virtuais, Cosmos DB, Recuperação de Desastres, Firewall e Defender Azure, Funções Azure, Blueprints Azure, Gerenciamento de Diretório Ativo de Sistemas em Nuvem e Pontos Finais, Criptografia e ferramentas de criptografia, Ferramentas de varredura de rede e sistema, Inteligência de código aberto (OSINT)
-
+VBCS, SSO, MFA, Javascript, OCI, IDCS, PaaS, SaaS, SOA, REST API, Visual Builder Cloud Service
 </div>
 ---
-## Dell Technology
-`Estagiário de Verão em Engenharia de Software`
+
+## Deloitte
+`Sr. Cloud Technical Consultant | Application Specialist`
 </br>
-`Maio-Julho 2023`
+`Ago 2023 - Mar 2024`
 <div style='text-align: justify'><b>
-<li>Colaborou com a equipe para implementar várias ferramentas de automação, garantindo o fluxo adequado e a gestão eficiente de pedidos.</li><br>
-<li>Predição de cancelamento de pedidos usando algoritmos de aprendizado de máquina. </li><br> 
-<li>Examinar os fatores que contribuem para o cancelamento de pedidos, identificando e abordando lacunas no sistema.</li><br> 
-<li>Analisou dados para identificar fatores que contribuem para o cancelamento de pedidos e retenções do sistema, abordando lacunas no sistema para reduzir o cancelamento de pedidos e melhorar a eficiência geral.</li><br>
+<li>Consultoria técnica em projetos de integração de sistemas utilizando tecnologias Oracle Cloud, com foco em automação, suporte e entrega de soluções robustas.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -61,19 +52,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-Mineração de Dados, Análise de Dados, JSON, Python/R, Visualização de Dados, Framework Orange, Jupyter Notebook, Excel, Algoritmos de Aprendizado de Máquina, Automação, Pipeline ETL.
-
+sFTP, API, SOAP, EssJobs, FBDI, OCI, REST API, SOA, ERP, HCM, CRM
 </div>
 ---
-## NoShitSecurity
-`Estagiário`
+
+## FedEx
+`Sr. Oracle Cloud Engineer | Integration Specialist`
 </br>
-`Jun 2022 - Abril 2023`
+`Ago 2023 - Mar 2024`
 <div style='text-align: justify'><b>
-<li>Projeta e conduz pesquisas para garantir a segurança da infraestrutura em nuvem.</li><br>
-<li>Utiliza técnicas avançadas de endurecimento de configuração para melhorar a segurança de VMs e cargas de trabalho.</li><br> 
-<li>Assegura a integridade do sistema com políticas padrão do setor e controles de segurança em camadas.</li><br> 
-<li>Alavanca as ferramentas do Azure Defender para produzir e manter uma postura de segurança mais saudável</li><br>
+<li>Engenheiro de integração especializado em Oracle Cloud, atuando em projetos de automação, suporte e implementação de sistemas ERP.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -81,18 +69,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-Linux, Lynis, Metasploit, NIST, Política, PowerShell, Python, Red Team, Relatórios, Sentinel, SIEM, Splunk, Estratégia, Redação Técnica, VPN Unix, Avaliação de Vulnerabilidades, Servidor Windows
-
+sFTP, API, SOAP, EssJobs, FBDI
 </div>
 ---
-## Virtually Testing Foundation 
-`Estagiário de Segurança Cibernética`
+
+## Núclea
+`Sr. Oracle Cloud Engineer | Integration Specialist`
 </br>
-`Maio-Julho 2022`
+`Dez 2023 - Fev 2024`
 <div style='text-align: justify'><b>
-<li>Mantém conhecimento técnico participando de várias oficinas e cursos online </li><br>
-<li>Gerencia e produz documentação técnica, guias de processo e conteúdo relacionado à segurança cibernética</li><br> 
-<li>Concluiu com sucesso todos os desafios de captura da bandeira atribuídos</li><br> 
+<li>Consultoria técnica em projetos de integração e automação utilizando Oracle Cloud, com foco em soluções de infraestrutura para o setor bancário.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -100,8 +86,94 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-Segurança e Engenharia em Nuvem Básica, Splunk, Inteligência de Código Aberto (OSINT), Microsoft Azure Active Directory, MITRE ATT&CK 
+UCM, EssJobs, FBDI, Oracle Cloud
 </div>
+---
+
+## NTT DATA
+`Sr. Oracle Technical Consultant | Application Specialist`
+</br>
+`Jan 2023 - Jan 2024`
+<div style='text-align: justify'><b>
+<li>Consultor técnico em projetos de desenvolvimento e integração de sistemas Oracle, com foco em VBCS, automação e suporte a clientes internacionais.</li><br>
+</b>
+</div>
+Tecnologias Utilizadas
+--
+<b>Tecnologias Utilizadas</b><br>
+<!-- .slide: data-background-color="#283747" -->
+<div style='text-align: justify'>
+VBCS, API, SOAP, EssJobs, FBDI, ALM, VBS, Javascript, UX/UI
+</div>
+---
+
+## Ocyan
+`Sr. Oracle Cloud Consultant | Application Specialist`
+</br>
+`Jan 2023 - Dez 2023`
+<div style='text-align: justify'><b>
+<li>Consultoria especializada em Oracle Cloud, atuando no desenvolvimento, integração e suporte de sistemas, com foco em VBCS, automação e metodologias ágeis.</li><br>
+</b>
+</div>
+Tecnologias Utilizadas
+--
+<b>Tecnologias Utilizadas</b><br>
+<!-- .slide: data-background-color="#283747" -->
+<div style='text-align: justify'>
+VBCS, API, SOAP, EssJobs, FBDI, PL/SQL, BI Publisher, sFTP, GMUD
+</div>
+---
+
+## Odontoprev
+`Oracle Cloud Migration Developer`
+</br>
+`Jan 2022 - Jan 2023`
+<div style='text-align: justify'><b>
+<li>Desenvolvedor especializado em migração de sistemas para Oracle Cloud, com foco em VBCS e integrações, garantindo a melhor experiência para o usuário.</li><br>
+</b>
+</div>
+Tecnologias Utilizadas
+--
+<b>Tecnologias Utilizadas</b><br>
+<!-- .slide: data-background-color="#283747" -->
+<div style='text-align: justify'>
+VBCS, API, SOAP, Javascript, Node.js
+</div>
+---
+
+## MGSOARES Prog.
+`Oracle Financial Consultant`
+</br>
+`Jan 2021 - Ago 2021`
+<div style='text-align: justify'><b>
+<li>Consultoria em soluções financeiras Oracle, atuando no suporte a processos de configuração, pagamento, relatórios e análise contábil.</li><br>
+</b>
+</div>
+Tecnologias Utilizadas
+--
+<b>Tecnologias Utilizadas</b><br>
+<!-- .slide: data-background-color="#283747" -->
+<div style='text-align: justify'>
+Oracle Account Payables Cloud, Oracle Expenses Cloud
+</div>
+---
+
+## Receita Federal
+`Especialista em Suporte de TI`
+</br>
+`Jan 2020 - Fev 2021`
+<div style='text-align: justify'><b>
+<li>Suporte técnico em ambiente de TI, com foco em hardware, redes e atendimento ao usuário.</li><br>
+</b>
+</div>
+Tecnologias Utilizadas
+--
+<b>Tecnologias Utilizadas</b><br>
+<!-- .slide: data-background-color="#283747" -->
+<div style='text-align: justify'>
+Suporte de Hardware, Redes de Computadores, Redes LAN-WAN
+</div>
+
 """
 st.title("Experience")
 currState = rs.slides(
