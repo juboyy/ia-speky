@@ -68,9 +68,9 @@ with right_column:
     "FastAPI",
     "GCP - Google Cloud Platform"
   ]
-    selected = pills("Select a category", skills)
+    selected = pills("Selecione uma categoria", skills)
 with left_column:
-    st.title("Description")
+    st.title("Detalhes")
     for skill in description["skills"]:
         if selected==skill["name"]:
             st.markdown(skill["description"])
