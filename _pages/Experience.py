@@ -175,7 +175,7 @@ Suporte de Hardware, Redes de Computadores, Redes LAN-WAN
 </div>
 
 """
-st.title("Experience")
+st.title("Experiências")
 currState = rs.slides(
     sample_markdown,
     theme="dracula",

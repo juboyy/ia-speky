@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
-st.title("Achivements")
+st.title("Conquistas")
 Rage_badge = """
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="365e7215-70ac-4ce6-8556-45611fb09f47" data-share-badge-host="https://www.credly.com"></div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -9,21 +9,7 @@ Rage_badge = """
 Hope_Badge = """<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e3b54dd6-1ad7-462d-95ee-75491fb55c2f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>"""
 Keyholders_badge = """<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0385f6ff-609e-4ed1-9234-fce7dd813a88" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>"""
 Azure_fundamentals = """<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="667db6e7-111e-4a71-9028-cfcbb512cdcf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>"""
-# Hackathons section
-st.header("💻 Hackathons")
-st.write("**Dell Hackathon Hack to Hire 2022** - Vencedor")
-st.write("**Cybersecurity Hackathon 2021** - Vencedor")
 
-# Seção Capture-the-flag
-st.header("🔓 Competições Capture-the-Flag")
-st.write("**Capture the Flag Hope 2022** - Resolvido")
-st.write("**Capture the Flag Tempus 2022** - Detentor da Chave")
-st.write("**NoShitSecurity Jurassic Jungle Season 2** - Formado")
-
-# Seção Prêmios
-st.header("🏅 Prêmios")
-st.write("**Melhor Voluntário do National Service Scheme 2022**")
-st.write("**Melhor Voluntário da Sociedade para a Promoção da Juventude e das Massas 2021**")
 # Seção Certificações
 st.header("📜 Certificações")
 
@@ -38,7 +24,7 @@ certifications_data = {
 certifications_df = pd.DataFrame(certifications_data)
 st.table(certifications_df)
 #Badge Section
-st.header("Badges")
+st.header("🏅Badges")
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:

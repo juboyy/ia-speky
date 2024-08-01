@@ -5,7 +5,7 @@ with right_column:
     st.image(r"images/profile.png", use_column_width=True)
 
 with left_column:
-    st.title("About Me")
+    st.title("Sobre mim")
     st.markdown(
         "<div style='text-align: justify'>"
         "Olá! Sou o João Rafael, entusiasta em tecnologia, blockchain e IA. Com um extenso histórico em TI, adoro enfrentar desafios e descobrir soluções inovadoras."

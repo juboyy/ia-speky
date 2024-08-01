@@ -2,155 +2,163 @@
   "skills": [
     {
       "name": "Oracle Fusion Financials",
-      "description": "Experiente na implementação e customização de sistemas ERP em nuvem Oracle Fusion Financials. Possuo conhecimento avançado em módulos financeiros, como contabilidade geral, contas a pagar, contas a receber e gestão de ativos."
+      "description": "Experiência em implementação e customização de sistemas ERP em nuvem Oracle Fusion Financials, com expertise em módulos como contabilidade geral, contas a pagar, contas a receber e gestão de ativos."
     },
     {
       "name": "Oracle Fusion HCM",
-      "description": "Expertise na implementação e customização de sistemas ERP em nuvem Oracle Fusion HCM. Possuo conhecimento avançado em módulos de gestão de recursos humanos, como recrutamento, treinamento, folha de pagamento e benefícios."
+      "description": "Domínio em implementação e customização do sistema ERP em nuvem Oracle Fusion HCM, com conhecimento aprofundado em Recrutamento, Treinamento, Folha de Pagamento e Benefícios."
     },
     {
       "name": "Oracle Integration Cloud (OIC)",
-      "description": "Especialista certificado em Oracle Integration Cloud, experiente na construção e suporte de integrações complexas. Possuo habilidades avançadas em mapeamento de dados, transformação de mensagens e orquestração de processos de negócios."
+      "description": "Especialista certificado, experiente na construção e suporte a integrações complexas, com habilidades em mapeamento de dados, transformação de mensagens e orquestração de processos."
     },
     {
       "name": "Visual Builder Cloud Service (VBCS)",
-      "description": "Proficiente no desenvolvimento e suporte de aplicações complexas usando Visual Builder Cloud Service, criando telas VBCS originadas do Oracle EBS e Forms, seguindo práticas de UX e UI. Possuo experiência em personalização de fluxos de trabalho, criação de regras de validação e implementação de lógica de negócios personalizada."
+      "description": "Proficiente no desenvolvimento e suporte a aplicações complexas usando Visual Builder Cloud Service, criando telas VBCS originadas do Oracle EBS e Forms, seguindo as melhores práticas de UX e UI. Experiência em personalização de fluxos de trabalho, criação de regras de validação e implementação de lógica de negócios personalizada."
     },
     {
       "name": "Oracle Cloud Infrastructure (OCI)",
-      "description": "Experiente em alavancar OCI para construir soluções em nuvem seguras e escaláveis, incluindo o gerenciamento de configurações de segurança. Habilidade em criar soluções utilizando OCI, IDCS. Possuo conhecimento avançado em provisionamento de recursos, configuração de redes virtuais e implantação de aplicativos em contêineres."
+      "description": "Habilidade em construir soluções em nuvem seguras e escaláveis na OCI, incluindo a gestão de configurações de segurança. Domínio em provisionamento de recursos, configuração de redes virtuais e implantação de aplicações em contêineres."
     },
     {
       "name": "Oracle Digital Assistant",
-      "description": "Experiente no desenvolvimento de chatbots e aplicações inteligentes usando Oracle Digital Assistant. Possuo habilidades avançadas em criação de diálogos, integração com sistemas externos e análise de sentimentos."
+      "description": "Experiência na construção de chatbots e aplicações inteligentes, com expertise em criação de diálogos, integração com sistemas externos e análise de sentimentos."
     },
     {
       "name": "Oracle Blockchain Platform",
-      "description": "Certificado em Oracle Blockchain Platform, com conhecimento de suas capacidades e aplicações. Possuo experiência em design de redes blockchain, desenvolvimento de contratos inteligentes e implementação de soluções de rastreabilidade e transparência."
+      "description": "Certificado, com conhecimento prático em design de redes blockchain, desenvolvimento de contratos inteligentes e implementação de soluções de rastreabilidade e transparência."
     },
     {
       "name": "Oracle Gen AI",
-      "description": "Certificado em Oracle Gen AI, habilidoso no desenvolvimento de machine learning e aplicações baseadas em LLM dentro do OCI. Possuo experiência em treinamento de modelos de linguagem, geração de texto e análise de sentimentos."
+      "description": "Certificado e apto a desenvolver soluções de Machine Learning e aplicações baseadas em LLMs dentro da OCI, com expertise em treinamento de modelos de linguagem, geração de texto e análise de sentimentos."
     },
     {
       "name": "Python",
-      "description": "Proficiente na linguagem Python, utilizada para desenvolver modelos de machine learning, scripts de automação e aplicações. Utilizo Python com Langchain e bancos de dados vetoriais para criar aplicações inteligentes. Possuo conhecimento avançado em bibliotecas populares como NumPy, Pandas e TensorFlow."
+      "description": "Proficiente em Python, utilizando-o para Machine Learning, automação e desenvolvimento de aplicações, incluindo experiência com Langchain e bancos de dados vetoriais. Domínio em bibliotecas como NumPy, Pandas e TensorFlow."
     },
     {
       "name": "Javascript",
-      "description": "Experiente na linguagem Javascript, utilizada para desenvolvimento front-end e construção de aplicações mobile. Utilizo Javascript para desenvolvimento de aplicações dentro e fora da Oracle. Possuo conhecimento avançado em frameworks como React, Angular e Vue.js."
+      "description": "Desenvolvedor Front-End e Mobile experiente, utilizando Javascript para aplicações dentro e fora do ecossistema Oracle. Habilidade em frameworks como React, Angular e Vue.js."
     },
     {
       "name": "SQL",
-      "description": "Habilidoso em SQL, usado para gerenciamento de banco de dados e manipulação de dados. Possuo conhecimento avançado em consultas complexas, criação de tabelas e otimização de consultas."
+      "description": "Habilidoso em SQL para gerenciamento de banco de dados e manipulação de dados, com expertise em consultas complexas, criação de tabelas e otimização."
     },
     {
       "name": "PL/SQL",
-      "description": "Experiente na linguagem PL/SQL, usada para desenvolver procedimentos e funções de banco de dados. Utilizo PL/SQL para customização de sistemas, integração com outros sistemas e automação de tarefas. Possuo conhecimento avançado em criação de stored procedures, triggers e packages."
+      "description": "Experiente em PL/SQL para desenvolvimento de procedimentos e funções de banco de dados, customização de sistemas, integração e automação de tarefas. Domínio em stored procedures, triggers e packages."
     },
     {
       "name": "SaaS",
-      "description": "Compreensão da arquitetura de nuvem Software como Serviço e suas aplicações. Experiência no desenvolvimento de apps para ERP SaaS Oracle. Possuo conhecimento avançado em configuração de aplicativos SaaS, personalização de fluxos de trabalho e criação de relatórios personalizados."
+      "description": "Compreensão profunda da arquitetura SaaS e experiência no desenvolvimento de aplicações para ERP SaaS Oracle. Habilidade em configuração, customização de fluxos de trabalho e criação de relatórios."
     },
     {
       "name": "PaaS",
-      "description": "Experiente em trabalhar com ambientes de nuvem Plataforma como Serviço e suas soluções. Experiência no desenvolvimento de apps para ERP PaaS Oracle. Possuo conhecimento avançado em configuração de ambientes PaaS, implantação de aplicativos e monitoramento de desempenho."
+      "description": "Experiente em trabalhar com ambientes PaaS e suas soluções, com experiência no desenvolvimento de aplicações para ERP PaaS Oracle. Domínio em configuração de ambientes, implantação de apps e monitoramento de desempenho."
     },
     {
-      "name": "Cloud Native Architecture",
-      "description": "Conhecimento de design e implementação de aplicações seguindo os princípios nativos da nuvem. Possuo experiência em arquitetura de microsserviços, escalabilidade automática e gerenciamento de contêineres."
+      "name": "Arquitetura Cloud Native",
+      "description": "Conhecimento em design e implementação de aplicações seguindo os princípios da nuvem, com experiência em arquitetura de microsserviços, escalabilidade automática e gerenciamento de contêineres."
     },
     {
       "name": "CI/CD",
-      "description": "Experiente na implementação de práticas de Integração Contínua e Implantação Contínua para entrega de software mais rápida e de alta qualidade. Implemento práticas de CI/CD com VBS para garantir entregas rápidas e de alta qualidade. Possuo conhecimento avançado em ferramentas como Jenkins, Git e Docker."
+      "description": "Experiente na implementação de Integração e Entrega Contínua (CI/CD) para entregas rápidas e de alta qualidade. Expertise em ferramentas como Jenkins, Git e Docker."
     },
     {
       "name": "ALM (Application Lifecycle Management)",
-      "description": "Habilidoso no uso de ferramentas de Gerenciamento do Ciclo de Vida da Aplicação para gerenciar processos de desenvolvimento de software. Experiência com ALM VBS em Visual Builder. Possuo conhecimento avançado em controle de versão, rastreamento de problemas e automação de testes."
+      "description": "Habilidade na utilização de ferramentas ALM para gestão do ciclo de vida de desenvolvimento de software, com expertise em controle de versão, rastreamento de problemas e automação de testes."
     },
     {
-      "name": "Agile Methodologies",
-      "description": "Proficiente no uso de metodologias Agile, incluindo Scrum e Kanban, para gerenciamento de projetos e desenvolvimento de software. Possuo experiência em planejamento de sprints, reuniões diárias e retrospectivas."
+      "name": "Metodologias Ágeis",
+      "description": "Proficiente em Scrum e Kanban para gestão de projetos e desenvolvimento de software, com experiência em planejamento de sprints, daily meetings e retrospectivas."
     },
     {
       "name": "VBS (Visual Builder Studio)",
-      "description": "Experiente no uso do Visual Builder Studio para construir e gerenciar aplicações na Oracle Cloud. Ministrei treinamento especializado em Visual Builder e aplicações em nuvem. Possuo conhecimento avançado em criação de páginas web, criação de fluxos de trabalho e integração com serviços externos."
+      "description": "Experiência na construção e gestão de aplicações na Oracle Cloud utilizando VBS. Expertise em criação de páginas web, fluxos de trabalho e integração com serviços externos."
     },
     {
       "name": "BI Publisher",
-      "description": "Habilidoso no uso do BI Publisher para criar e gerenciar relatórios e visualizações de dados. Experiência na criação de relatórios customizados com BI Publisher. Possuo conhecimento avançado em criação de modelos de relatórios, agendamento de relatórios e distribuição de relatórios por email."
+      "description": "Habilidade na criação e gestão de relatórios e visualizações de dados com BI Publisher, com expertise em modelos de relatórios, agendamento e distribuição."
     },
     {
-      "name": "Data Integration",
-      "description": "Experiente na integração de dados de várias fontes e sistemas, incluindo a construção de integrações personalizadas. Realizo integrações utilizando tecnologias como sFTP, API, SOAP, EssJobs, FBDI, UCM. Possuo conhecimento avançado em mapeamento de dados, transformação de dados e monitoramento de integrações."
+      "name": "Integração de Dados",
+      "description": "Experiência na integração de dados de diversas fontes, incluindo a construção de integrações customizadas. Habilidade em mapeamento, transformação e monitoramento de integrações."
     },
     {
-      "name": "Data Analysis",
-      "description": "Proficiente na análise de dados para identificar tendências, padrões e insights para tomada de decisão de negócios. Possuo conhecimento avançado em ferramentas de análise de dados, como Power BI, Tableau e Excel."
+      "name": "Análise de Dados",
+      "description": "Proficiente em análise de dados para identificação de tendências, padrões e insights. Conhecimento em ferramentas como Power BI, Tableau e Excel."
     },
     {
-      "name": "Generative AI",
-      "description": "Compreensão e experiência em trabalhar com modelos de IA generativa e suas aplicações. Utilizo ferramentas como Langchain, Python e bancos de dados vetoriais para criar aplicações de IA generativa. Possuo conhecimento avançado em treinamento de modelos de linguagem, geração de texto e criação de chatbots."
+      "name": "IA Generativa",
+      "description": "Domínio em IA Generativa, com experiência em criação de aplicações utilizando ferramentas como Langchain, Python e bancos de dados vetoriais. Habilidade em treinamento de modelos de linguagem, geração de texto e criação de chatbots."
     },
     {
-      "name": "Large Language Models (LLMs)",
-      "description": "Habilidoso no uso e ajuste fino de grandes modelos de linguagem para várias aplicações de IA. Possuo conhecimento avançado em modelos como GPT-3, BERT e Transformer."
+      "name": "LLMs (Large Language Models)",
+      "description": "Experiência no uso e ajuste fino de LLMs para diversas aplicações de IA, com conhecimento em modelos como GPT-3, BERT e Transformer."
     },
     {
       "name": "Langchain",
-      "description": "Experiente no uso da estrutura Langchain para desenvolver aplicações alimentadas por LLMs. Possuo conhecimento avançado em pré-processamento de texto, treinamento de modelos de linguagem e geração de texto."
+      "description": "Experiência no desenvolvimento de aplicações com LLMs utilizando Langchain. Domínio em pré-processamento de texto, treinamento de modelos e geração de texto."
     },
     {
       "name": "Langsmith",
-      "description": "Familiarizado com a plataforma Langsmith para rastrear, avaliar e melhorar aplicações LLM. Possuo conhecimento avançado em análise de desempenho de modelos de linguagem, ajuste fino de hiperparâmetros e otimização de respostas geradas."
+      "description": "Familiarizado com a plataforma Langsmith para rastrear, avaliar e aprimorar aplicações LLM. Conhecimento em análise de desempenho, ajuste fino de hiperparâmetros e otimização de respostas."
     },
     {
       "name": "Vector Databases",
-      "description": "Conhecimento do uso de bancos de dados vetoriais para armazenamento e recuperação eficientes de embeddings para aplicações de IA. Possuo experiência em modelagem de dados vetoriais, indexação de vetores e consulta de similaridade."
+      "description": "Conhecimento em bancos de dados vetoriais para armazenamento e recuperação eficiente de embeddings em aplicações de IA. Experiência em modelagem, indexação e consulta de similaridade."
     },
     {
       "name": "Machine Learning",
-      "description": "Experiente no desenvolvimento e implantação de modelos de aprendizado de máquina para várias aplicações. Possuo conhecimento avançado em algoritmos de classificação, regressão, agrupamento e detecção de anomalias."
+      "description": "Experiência no desenvolvimento e implantação de modelos de Machine Learning. Conhecimento em algoritmos de classificação, regressão, agrupamento e detecção de anomalias."
     },
     {
       "name": "SSO (Single Sign-On)",
-      "description": "Compreensão e experiência na implementação de soluções Single Sign-On para autenticação segura do usuário. Experiência com SSO em aplicações mobile. Possuo conhecimento avançado em protocolos de autenticação, como OAuth e OpenID Connect."
+      "description": "Experiência na implementação de soluções SSO para autenticação segura. Conhecimento em protocolos como OAuth e OpenID Connect."
     },
     {
-      "name": "MFA (Multi-Factor Authentication)",
-      "description": "Experiente na implementação de autenticação multifator para segurança aprimorada. Experiência com MFA em aplicações mobile. Possuo conhecimento avançado em métodos de autenticação, como SMS, e-mail e autenticação biométrica."
+      "name": "MFA (Autenticação Multifator)",
+      "description": "Experiência na implementação de MFA para segurança aprimorada. Conhecimento em métodos como SMS, e-mail e biometria."
     },
     {
-      "name": "API (Application Programming Interface)",
-      "description": "Habilidoso no desenvolvimento e integração de APIs para comunicação entre sistemas e aplicações. Utilizo APIs REST, SOAP para integração de sistemas. Possuo conhecimento avançado em design de APIs, autenticação de API e versionamento de API."
+      "name": "API (Interface de Programação de Aplicações)",
+      "description": "Habilidade no desenvolvimento e integração de APIs para comunicação entre sistemas. Conhecimento em design, autenticação e versionamento de APIs REST e SOAP."
     },
     {
       "name": "REST API",
-      "description": "Proficiente na construção e consumo de APIs RESTful para troca e integração de dados. Utilizei REST para desenvolvimento de soluções no PaaS Oracle. Possuo conhecimento avançado em design de recursos, manipulação de dados JSON e autenticação de API REST."
+      "description": "Proficiente na construção e consumo de APIs RESTful. Conhecimento em design de recursos, manipulação de JSON e autenticação."
     },
     {
       "name": "SOAP",
-      "description": "Familiarizado com o protocolo SOAP para serviços da web e troca de dados. Utilizei SOAP para integração de sistemas. Possuo conhecimento avançado em criação de serviços web SOAP, definição de mensagens XML e segurança de serviços web."
+      "description": "Familiarizado com o protocolo SOAP para serviços web. Conhecimento em criação de serviços, mensagens XML e segurança."
     },
     {
-      "name": "sFTP (Secure File Transfer Protocol)",
-      "description": "Experiente no uso de sFTP para transferência segura de arquivos entre sistemas. Utilizei sFTP para automação de processos. Possuo conhecimento avançado em configuração de conexões sFTP, criptografia de dados e agendamento de transferências."
+      "name": "sFTP (Protocolo Seguro de Transferência de Arquivos)",
+      "description": "Experiente no uso de sFTP para transferência segura de arquivos. Conhecimento em configuração de conexões, criptografia e agendamento."
     },
     {
       "name": "UX/UI Design",
-      "description": "Conhecimento dos princípios de design de experiência do usuário (UX) e interface do usuário (UI) para criar aplicações amigáveis. Experiência na criação de telas VBCS seguindo as melhores práticas de UX e UI. Possuo conhecimento avançado em wireframing, prototipagem e testes de usabilidade."
+      "description": "Conhecimento em UX/UI Design para criar aplicações intuitivas. Experiência em prototipagem e testes de usabilidade."
     },
     {
       "name": "Node.js",
-      "description": "Experiente no uso do framework Node.js para desenvolvimento backend. Utilize Node.js em conjunto com frameworks como Express e MongoDB para desenvolver soluções escaláveis e eficientes. Possuo conhecimento avançado em criação de APIs RESTful, manipulação de dados JSON e gerenciamento de dependências com npm."
+      "description": "Experiente em Node.js para desenvolvimento Back-End. Utiliza frameworks como Express e MongoDB para criar soluções escaláveis e eficientes. Habilidade em APIs RESTful, JSON e gerenciamento de dependências."
     },
     {
       "name": "Express.js",
-      "description": "Familiarizado com o framework Express.js para construir APIs RESTful e aplicações web com Node.js. Possuo conhecimento avançado em roteamento, middleware e autenticação com Express.js."
+      "description": "Familiarizado com Express.js para construir APIs RESTful e aplicações web com Node.js. Conhecimento em roteamento, middleware e autenticação."
     },
     {
       "name": "MongoDB",
       "description": "Experiente no uso do banco de dados NoSQL MongoDB para armazenamento e gerenciamento de dados flexíveis. Utilizei MongoDB em conjunto com Node.js e Express para desenvolver aplicações web. Possuo conhecimento avançado em modelagem de dados, consultas avançadas e replicação de dados."
+    },
+    {
+      "name": "DynamoDB",
+      "description": "Domínio em DynamoDB, o banco de dados NoSQL da AWS, para construir soluções escaláveis e de alto desempenho."
+    },
+    {
+      "name": "NoSQL",
+      "description": "Compreensão profunda de bancos de dados NoSQL e suas diversas aplicações, incluindo modelagem de dados, querying e otimização de performance."
     },
     {
       "name": "OTBI (Oracle Transactional Business Intelligence)",
@@ -161,7 +169,7 @@
       "description": "Conhecimento em linguagem de programação Java, utilizada para desenvolvimento web e mobile. Experiência com frameworks Spring e Hibernate para desenvolvimento de aplicações robustas. Possuo conhecimento avançado em orientação a objetos, manipulação de banco de dados e desenvolvimento de interfaces gráficas."
     },
     {
-      "name": "Mobile Development",
+      "name": "Desenvolvimento Mobile",
       "description": "Experiência em desenvolvimento de aplicações mobile, tanto nativas (Android/iOS) quanto híbridas. Utilize frameworks como React Native e Flutter para criar aplicações mobile performáticas e responsivas. Possuo conhecimento avançado em desenvolvimento de interfaces de usuário, acesso a recursos do dispositivo e publicação de aplicativos nas lojas de aplicativos."
     },
     {
@@ -202,11 +210,27 @@
     },
     {
       "name": "Gradio",
-      "description": "Familiaridade com a biblioteca Gradio para construir interfaces de usuário intuitivas para modelos de machine learning, facilitando a prototipagem e o compartilhamento de projetos de IA."
+      "description": "Familiarizado com a biblioteca Gradio para construir interfaces de usuário intuitivas para modelos de machine learning, facilitando a prototipagem e o compartilhamento de projetos de IA."
     },
     {
-      "name": "Multimodal Solutions",
+      "name": "Soluções Multimodais",
       "description": "Capacidade de desenvolver soluções que integram múltiplas modalidades de dados, como texto, imagem e áudio, para criar aplicações de IA mais robustas e versáteis."
+    },
+    {
+      "name": "AWS Bedrock",
+      "description": "Experiência com o serviço AWS Bedrock para LLMs, utilizando modelos pré-treinados para acelerar o desenvolvimento de aplicações de IA generativa."
+    },
+    {
+      "name": "Retool",
+      "description": "Habilidade em usar o Retool para construir interfaces internas de forma rápida e eficiente, conectando a diversas fontes de dados e criando dashboards personalizados."
+    },
+    {
+      "name": "FastAPI",
+      "description": "Experiência com FastAPI para desenvolvimento de APIs web de alto desempenho, utilizando Python para criar APIs robustas, escaláveis e bem documentadas."
+    },
+    {
+      "name": "GCP - Google Cloud Platform",
+      "description": "Conhecimento em serviços e produtos do Google Cloud Platform, incluindo computação, armazenamento, banco de dados e machine learning, para construir soluções em nuvem completas."
     }
   ]
 }
