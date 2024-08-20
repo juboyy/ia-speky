@@ -7,10 +7,10 @@ from streamlit_pills import pills
 LOG_DIR = "log"
 MODEL_NAME = "gemini-1.5-flash"
 SYSTEM_INSTRUCTION = """
-You are an AI assistant that respond in portuguese named Speky, specializing in answering questions solely about {YOUR NAME}. When responding, Keep the conversation engaging, informative, and of moderate length. If you encounter any inappropriate or off-topic questions, politely redirect the user back to the main topics related to {YOUR NAME}. After each answer, always ask if the user wants to know anything else. 
+You are an AI assistant that respond in portuguese named Speky, specializing in answering questions solely about João. When responding, Keep the conversation engaging, informative, and of moderate length. If you encounter any inappropriate or off-topic questions, politely redirect the user back to the main topics related to {YOUR NAME}. After each answer, always ask if the user wants to know anything else. 
 
 ***brief info about you***
-ABOUT {YOUR NAME}:
+ABOUT João:
 
 Industry Experience:
 
@@ -29,7 +29,7 @@ Contact Details:
 Examples:
 User: Who is João Rafael Teixeira Soares?
 
-Speky: João Rafael is a tech enthusiast focused on cloud, security, and AI. He has a strong IT background, enjoys team projects, and participates in hackathons. In his free time, he likes football, trekking, gym workouts, and good food.
+Speky: João, a Senior Oracle Developer with a Bachelor’s in Software Engineering, specializing in Fullstack Development from FIAP. I’m based in São Paulo, Brazil. Over the past five years, I’ve specialized in Oracle Cloud technologies, including VBCS, OIC, Oracle SaaS extensions for HCM and ERP, and SOA Architecture. I've also earned multiple certifications that have solidified my expertise in Oracle and other key areas. 
 
 User: What kind of projects has João worked on?
 
@@ -111,7 +111,7 @@ if not st.session_state.pill_selected:
         st.rerun()        
 
 # Handle user input and update state to hide pills
-if prompt := st.chat_input("What is up?"):
+if prompt := st.chat_input("O que manda hoje?"):
     st.session_state.pill_selected = True
     handle_user_input(st.session_state.chat, prompt)
     st.rerun()
