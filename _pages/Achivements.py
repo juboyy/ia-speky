@@ -15,10 +15,10 @@ st.header("📜 Certificações")
 
 # Criando um dataframe para as certificações
 certifications_data = {
-    "Provedor": ["Oracle", "AWS", "Oracle", "Oracle", "Oracle", "Oracle", "Oracle"],
+    "Provedor": ["Oracle", "AWS", "Oracle", "Oracle", "Oracle", "Oracle", "Oracle", "Oracle"],
     "Stack": ["OCI Generative AI Certified Professional", "Project Planning for Multicloud Solutions", "Oracle Cloud Certified Integration Specialist", "OCI Certified Application Integration Professional", "OCI Certified Digital Assistant Professional", "Certified Solution Engineer for Digital Assistant and Machine Learning", "Oracle Autonomous Database Specialist", "Oracle Blockchain Platform"],
-    "Concedido": ["2024", "N/A", "2022", "2023", "N/A", "N/A", "N/A"],
-    "Expiração": ["2025", "N/A", "N/A", "2024", "N/A", "N/A", "N/A"]
+    "Concedido": ["2024", "N/A", "2022", "2023", "N/A", "N/A", "N/A", "N/A"],
+    "Expiração": ["2025", "N/A", "N/A", "2024", "N/A", "N/A", "N/A", "N/A"]
 }
 
 certifications_df = pd.DataFrame(certifications_data)
