@@ -24,14 +24,14 @@ certifications_data = {
 certifications_df = pd.DataFrame(certifications_data)
 st.table(certifications_df)
 #Badge Section
-st.header("🏅Badges")
-col1, col2, col3, col4 = st.columns(4)
+# st.header("🏅Badges")
+# col1, col2, col3, col4 = st.columns(4)
 
-with col1:
-    components.html(Rage_badge, height=270, width=165)
-with col2:
-    components.html(Hope_Badge, height=270, width=165)
-with col3:
-    components.html(Keyholders_badge, height=270, width=165)
-with col4:
-    components.html(Azure_fundamentals, height=270, width=165)
+# with col1:
+#     components.html(Rage_badge, height=270, width=165)
+# with col2:
+#     components.html(Hope_Badge, height=270, width=165)
+# with col3:
+#     components.html(Keyholders_badge, height=270, width=165)
+# with col4:
+#     components.html(Azure_fundamentals, height=270, width=165)
