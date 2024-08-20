@@ -16,10 +16,7 @@ with st.sidebar:
             "Experiência",
             "Habilidades Técnicas",
             "Educação",
-            "Projetos",
             "Conquistas",
-            "Voluntariado",
-            "Blog",
             "Contato",
         ],
         icons=[
@@ -65,10 +62,7 @@ pages = {
     "Experiência": "_pages/Experience.py",
     "Habilidades Técnicas": "_pages/technical_skills.py",
     "Educação": "_pages/Education.py",
-    "Projetos": "_pages/Projects.py",
     "Conquistas": "_pages/Achivements.py",
-    "Voluntariado": "_pages/Volunteering.py",
-    "Blog": "_pages/Blog.py",
     "Contato": "_pages/Contact.py",
 }
 

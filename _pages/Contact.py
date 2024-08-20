@@ -4,9 +4,9 @@ st.header(":mailbox: Entre em contato comigo!")
 contact_form = """
 <form action="https://formsubmit.co/finess.org@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="true">
-     <input type="text" name="name" placeholder="Seu nome" required>
-     <input type="email" name="email" placeholder="Seu email" required>
-     <textarea name="message" placeholder="Sua mensagem aqui"></textarea>
+     <input type="text" name="name" placeholder="João Rafael" required>
+     <input type="email" name="email" placeholder="finess.org@gmail.com" required>
+     <textarea name="message" placeholder="Entre em contato, vamos expandir as ideias!"></textarea>
      <button type="submit">Enviar</button>
 </form>
 """

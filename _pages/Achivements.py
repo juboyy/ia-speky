@@ -15,10 +15,10 @@ st.header("📜 Certificações")
 
 # Criando um dataframe para as certificações
 certifications_data = {
-    "Fornecedor": ["Microsoft", "Microsoft", "NoShitSecurity", "Great Learning", "Splunk", "AttackIQ", "Coursera", "Try Hack Me", "Cybrary", "Google"],
-    "Série": ["AZ-500 Azure Security Engineer", "AZ-900 Azure Fundamentals", "Azure Security Bootcamp", "Cloud Fundamentals", "Basic of Splunk", "Foundational and operationalizing Mitre Att&ack", "HTML, CSS, and JavaScript for Web Developers", "Advent of Cyber 3", "Introduction to IT and Cybersecurity", "Google Cloud Engineering Track"],
-    "Concedido": ["Ago/2023", "Out/2022", "Jul/2022", "Jun/2022", "Mai/2022", "Mai/2022", "Fev/2022", "Dez/2021", "Nov/2021", "Out/2021"],
-    "Expiração": ["Ago/2024", "Nunca", "Nunca", "Nunca", "Nunca", "Nunca", "Nunca", "Nunca", "Nunca", "Nunca"]
+    "Fornecedor": ["Oracle", "AWS", "Oracle", "Oracle", "Oracle", "Oracle", "Oracle"],
+    "Série": ["OCI Generative AI Certified Professional", "Project Planning for Multicloud Solutions", "Oracle Cloud Certified Integration Specialist", "OCI Certified Application Integration Professional", "OCI Certified Digital Assistant Professional and Certified Solution Engineer for Digital Assistant and Machine Learning", "Oracle Autonomous Database Specialist", "Oracle Blockchain Platform"],
+    "Concedido": ["2024", "N/A", "2022", "2023", "N/A", "N/A", "N/A"],
+    "Expiração": ["2025", "N/A", "N/A", "2024", "N/A", "N/A", "N/A"]
 }
 
 certifications_df = pd.DataFrame(certifications_data)

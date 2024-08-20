@@ -78,7 +78,7 @@ sFTP, API, SOAP, EssJobs, FBDI
 </br>
 `Dez 2023 - Fev 2024`
 <div style='text-align: justify'><b>
-<li>Consultoria técnica em projetos de integração e automação utilizando Oracle Cloud, com foco em soluções de infraestrutura para o setor bancário.</li><br>
+<li>Consultoria técnica em projetos de integração e automação utilizando Oracle Cloud, com foco em soluções de infraestrutura crítica para o setor bancário.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
