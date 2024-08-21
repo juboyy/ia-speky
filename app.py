@@ -11,7 +11,7 @@ with st.sidebar:
     choose = option_menu(
         "João Rafael",
         [
-            "Speky",
+            "Speky, a IA",
             "Sobre Mim",
             "Experiência",
             "Habilidades Técnicas",

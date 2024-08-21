@@ -87,7 +87,7 @@ def handle_user_input(chat, prompt):
     log_conversation("assistant", response_content)
 
 # Streamlit main code for chatbot
-st.title("Converse com Speky 🤖")
+st.title("Converse com Speky, a IA 🤖")
 
 if "chat" not in st.session_state:
     st.session_state.chat = configure_genai()

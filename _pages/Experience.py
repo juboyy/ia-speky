@@ -179,7 +179,7 @@ st.title("Experiências")
 currState = rs.slides(
     sample_markdown,
     theme="dracula",
-    height=800,
+    height=700,
     config={
         "transition": "slide",
         "width": 1100,
